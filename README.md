@@ -3,4 +3,4 @@ A Content-Based Recommender System which outputs articles containing similar wor
 
 The dataset: https://www.kaggle.com/hacker-news/hacker-news-posts
 
-Since this is my first project on Machine Learning, basically made to get familiar with different algorithms, I took inspiration from Alex Klibisz's Kaggle kernel on the same dataset: https://www.kaggle.com/alexklibisz/simple-word-vectors-with-co-occurrence-pmi-and-svd
+Since this is my first project on Machine Learning, it is very crude and basically made to get familiar with different algorithms, I took inspiration from Alex Klibisz's Kaggle kernel on the same dataset: https://www.kaggle.com/alexklibisz/simple-word-vectors-with-co-occurrence-pmi-and-svd
